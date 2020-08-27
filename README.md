@@ -1,7 +1,7 @@
 ## orz...
 
 ### 進捗  
-ysearch を追加
+ysearch を追加  
 　  
 orz.db を追加
   
