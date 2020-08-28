@@ -1,6 +1,8 @@
 ## orz...
 
-### 更新履歴  
+### 更新履歴
+yserver を追加  
+　    
 ysearch を追加  
 　  
 orz.db を追加
