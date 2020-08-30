@@ -7,7 +7,7 @@
   
   
 テスト用のユーティリティコマンドもいくつか含まれています。  
-[レセコンソフトORCAを巡るあれこれ](https://open-ocean-20.blogspot.com/2020/08/orca.html）』 参照。  
+[レセコンソフトORCAを巡るあれこれ](https://open-ocean-20.blogspot.com/2020/08/orca.html) 参照。  
   
 
 
