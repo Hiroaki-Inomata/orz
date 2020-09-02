@@ -14,7 +14,7 @@
 ### 更新履歴
 yserver を追加  
 　    
-ysearch を追加  
+ysearch を追加。Linux(Ubuntu）用は ysearchx です。  
 　  
 orz.db を追加
   
