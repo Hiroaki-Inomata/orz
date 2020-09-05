@@ -7,14 +7,14 @@
   
   
 テスト用のユーティリティコマンドがいくつか含まれています。  
-[レセコンソフトORCAを巡るあれこれ](https://open-ocean-20.blogspot.com/2020/08/orca.html) 参照。  
+使い方は [レセコンソフトORCAを巡るあれこれ](https://open-ocean-20.blogspot.com/2020/08/orca.html) 参照。  
   
 
 
 ### 更新履歴
 yserver を追加  
 　    
-ysearch を追加。Linux(Ubuntu）用は ysearchx です。  
+薬剤コード・薬価確認用テストコマンド ysearch を追加。Linux(Ubuntu）用は ysearchx です。  
 　  
 orz.db を追加
   
